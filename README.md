@@ -11,7 +11,7 @@
  
 ### Pyber Summary DataFrame 
 
-![Pyber SummaryDataFrame](C:/Users/Ruth/OneDrive/Desktop/Class Work/Class_Work/Module 5/HW_Submission_Matplotlib/analysis/Pyber_Summary_df.png) 
+![Pyber SummaryDataFrame](./analysis/Pyber_Summary_df.png) 
 
  
 *  we can see from the image above; the total Rides are high in Urban cities 1625 followed by Suburban cities 625 rides and lowest in Rural cities 125 rides.
@@ -35,7 +35,7 @@
 
 ### PyBer fare Summary
 
-![PyBer fare Summary](C:/Users/Ruth/OneDrive/Desktop/Class Work/Class_Work/Module 5/HW_Submission_Matplotlib/analysis/PyBer_fare_summary.png) 
+![PyBer fare Summary](./analysis/PyBer_fare_summary.png) 
 
 * The Muti line graph also supports the Summary data frame data for the total fares. we can see from the image above top yellow line represents weekly total fares for Urban cities between ($1600 - $2500) from 2019-01-01 to 2019-04-28. The weekly total Fare for Urban cities is highest from mid Feb to first week of march. The red line represents the weekly total fare for Suburban cities ($700 - $1400). The bottom blue line represents the weekly total fares for Rural cities ($50-$500). 
 
